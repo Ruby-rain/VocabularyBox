@@ -145,6 +145,8 @@
 네이버 사전에서 지원하지 않는 언어로 학습 중인 경우,  
 사전 버튼 클릭 시 검색 결과가 올바르게 표시되지 않을 수 있습니다.
 
+> 💡 The English version provides the Wiktionary dictionary.
+
 <br/>
 
 ### 13 · 실시간 검색
